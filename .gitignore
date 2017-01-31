@@ -1,4 +1,3 @@
-node_modules
-
-*.css
-*.map
+bower_components/
+build/
+node_modules/
